@@ -1,0 +1,17 @@
+﻿<SettingModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <weighAddress>COM10</weighAddress>
+  <weighBaudRate>9600</weighBaudRate>
+  <workOrder>W2B25A</workOrder>
+  <operatorID>TEC0388</operatorID>
+  <lineName>ASM1</lineName>
+  <stationNumber>1</stationNumber>
+  <jigNumber>1</jigNumber>
+  <operationCodeList />
+  <baseRoutingName />
+  <baseRoutingVersion />
+  <productName>UEI CHAMP4 ELP NON BL</productName>
+  <productCode>R12025CA00-00005</productCode>
+  <upperLimit>0.5</upperLimit>
+  <lowerLimit>0.4</lowerLimit>
+  <UOM>kg</UOM>
+</SettingModel>
